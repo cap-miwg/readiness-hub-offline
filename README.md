@@ -2,6 +2,12 @@
 
 A standalone offline version of the CAP Readiness Hub that allows you to import CAPWATCH data and browse insights without requiring Google Apps Script.
 
+## Try It Now
+
+**[Launch the Readiness Hub](https://cap-miwg.github.io/readiness-hub-offline/)** — no installation required!
+
+Simply upload your CAPWATCH ZIP file and start exploring your unit's readiness data. Your data is processed entirely in your browser and stored locally—nothing is sent to any server.
+
 ## Quick Start
 
 ### Option 1: Use the Pre-built Version
